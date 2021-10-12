@@ -1,0 +1,187 @@
+Albanian
+The alphabet (36 letters): a, b, c, ç, d, dh, e, ë, f, g, gj, h, i, j, k, l, ll, m, n, nj, o, p, q, r, rr, s,
+sh, t, th, u, v, x, xh, y, z, zh.
+Missing standard letter: w.
+Letters with diacritics: ç, ë.
+Sequences treated as one letter: dh, gj, ll, rr, sh, th, xh, zh.
+
+Croation
+The alphabet (3o letters): a, b, c, č, ć, d, dž, đ, e, f, g, h, i, j, k, l, lj, m, n, nj, o, p, r, s, š, u, v, z,
+ž.
+
+Czech
+The alphabet (31 letters): a, b, c, č, d, e, f, g, h, ch, i, j, k, l, m, n, o, p, r, ř, s, š, t, u, v, w, x, y,
+z, ž.
+
+Danish
+The alphabet (29 letters): a, b, c, d, e, f, g, h, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y,
+z, æ, ø, å.
+2
+
+Estonian
+The alphabet (32 letters): a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, š, z , ž , t, u, v, w, õ, ä,
+ö, ü, x, y.
+
+Faroese
+The alphabet (29 letters): a, á, b, d, ð, e, f, g, h, i, í, j, k. l, m, n, o, ó, p, r, s, t, u, ú, v, y, ý, æ, ø.
+
+Finnish
+The alphabet (27 letters): a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, x, y, z, ä, ö.
+
+The full alphabet (44 letters): a, á, b, c, cs, d, dz, dzs, e, é, f, g, gy, h, i, í, j, k, l, ly, m, n, ny, o,
+ó, ö, ő, p, q, r, s, sz, t, ty, u, ú, ü, ű, v, w, x, y, z, zs. (In the other version are w, x, y excluded.)
+
+Icelandic
+The alphabet (36 letters): a, á, b, c, d, Ðð, e, é, f, g, h, i, í, j, k, l, m, n, o, ó, p, q, r, s, t, u, ú, v,
+w, x, y, ý, z, þ, æ, ö.
+
+Italian
+The alphabet (21 letters): a, b, c, d, e, f, g, h, i, l, m, n, o, p, q, r, s, t, u, v, z.
+
+Latvian
+The alphabet (33 letters): a, ā, b, c, č, d, e, ē, f, g, Ģģ, h, i, ī, j, ķ, l, ļ, m, n, ņ, o, p, r, s, š, t, u,
+ū, v, z, ž.
+
+Lithuanian
+The alphabet (32 letters): a, ą, b, c, č, e, ę, ė, f, g, h, i, į, y, j, k, l, m, n, o, p, r, s, š, t, u, ų, ū, v,
+z, ž.
+
+Norwegian
+The alphabet (29 letters, the same ones as in Danish): a, b, c, d, e, f, g, h, e, f, g, h, i, j, k, l, m,
+n, o, p, q, r, s, t, u, v, w, x, y, z, æ, ø, å.
+
+Polish
+The alphabet (32 letters): a, ą, b, c, ć, d, e, ę, f, g, h, i , j, k, l, ł, m, n, ń, o, ó, p, r, s, ś, t, u, w, y,
+z, ź, ż.
+
+Portuguese
+The alphabet (23 letters): a, b, c, d, e, f, g, h, i, j, l, m, n, o, p, q, s, t, u, v, x, z.
+
+Romanian
+The alphabet (31 letters): a, ă, â, b, c, d, e, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, ţ, u, v, w, x,
+y, z.
+
+Sami
+The alphabet (29 letters): a, á, b, c, č, d, đ, e, f, g, h, i, j, k, l, m, n, ŋ, o, p, r, s, š, ŧ, u, v, z, ž.
+
+Spanish
+The alphabet (30 letters): a, b, c, ch, d, e, f, g, h, i, j, k, l, ll, m, n, ñ, o, p, q, r, rr, s, t, u, v, w, x,
+y, z.
+
+Swedish
+The alphabet (29 letters): a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, å, ä,
+ö.
+
+Turkish
+The alphabet (29 letters): a, b, c, ç, d, e, f, g, ğ, h, ı, i, j, k, l, m, n, o, ö, p, r, s, ş, t, u, ü, v, v, y,
+z.
+
+
+A
+Á, á
+À, à
+Â, â
+Ã, ã
+Ä, ä
+Ă, ă
+Ā, ā
+Å, å
+Ą, ą
+Æ, æ
+E
+É, é
+È, è
+Ê, ê
+Ë, ë
+Ě, ě
+Ē, ē
+Ė, ė
+Ę, ę
+I
+Í, í
+Ì, ì
+Î, î
+Ï, ï
+Ī, ī
+Į į
+I, ı
+O
+Ó, ó
+Ò, ò
+Ô, ô
+Õ, õ
+Ö, ö
+Ő, ő
+Ø, ø
+Œ, œ
+U
+Ú, ú
+Ù, ù
+Û, û
+Ü, ü
+Ű, ű
+
+Ū, ū
+ů
+Y
+Ý, ý
+C
+Ć, ć
+Č, č
+ ç
+D
+Ď, ď
+Đ, đ
+Đ, ð
+G
+Ģ, ģ
+Ğ, ğ
+K
+Ķ, ķ
+L
+Ł, ł
+Ļ, ļ
+N
+Ń, ń
+Ñ, ñ
+Ň, ň
+Ņ, ņ
+Ŋ, ŋ
+R
+Ř, ř
+S
+Ś, ś
+Š, š
+Ş, ş
+ß
+T, TH
+Ť, ť
+Ŧ, ŧ
+Þ, þ
+Ţ, ţ
+
+Z
+Ż, ż
+Ź, ź
+Ž, ž
+
+Greek: α, β, γ, δ, ε, ζ, η, θ, ι, κ, λ, μ, ν, ξ, ο, π, ρ, σ, τ,υ, φ,
+χ, ψ, ω
+
+Russian: а, б, в, г, д, е, ё, ж, з, и, й, к, л, м, н, о, п, р, с, т,
+у, ф, х, ц, ч, ш, щ, ъ, ы, ь, э, ю, я
+
+Belorussian: Аа, Бб, Вв, Гг, Ґґ, Дд, Дж дж, Ее, Ёё, Жж, Зз, Ии, Йй, Кк, Лл, Мм, Нн, Оо,
+Пп, Рр, Сс, Тт, Уу, Ўў, Фф, Хх, Цц, Чч, Шш, Ыы, Ьь, Ээ, Юю, Яя
+
+Bulgarian: Аа, Бб, Вв, Гг, Дд, Ее, Жж, Зз, Ии, Йй, Кк, Лл, Мм, Нн, Оо, Пп, Рр, Сс, Тт,
+Уу, Фф, Хх, Цц, Чч, Шш, Щщ, Ъъ, Ыы, Ьь, Юю, Яя
+
+Macedonian: Аа, Бб, Вв, Гг, Ѓѓ, Дд, Ее, Жж, Зз, Ss, Ии, Jj, Кк, Лл, Љљ, Мм, Нн, Њњ, Оо,
+Пп, Рр, Сс, Ќќ, Тт, Уу, Фф, Хх, Цц, Чч, Џџ, Шш
+
+Serbian: Аа, Бб, Вв, Гг, Дд , Ђђ, Ее, Жж, Зз, Ии, Jj, Kк, Лл, Љљ, Мм, Нн, Њњ, Оо, Пп,
+Рр, Сс, Тт, Ћћ, Уу, Фф, Хх, Цц, Чч, Џџ, Шш
+
+Ukranian: Аа, Бб, Вв, Гг, Ґґ, Дд, Ее, Єє, Жж, Зз, Ии, Ii, Її, Йй, Кк, Лл, Мм, Нн, Оо, Пп,
+Рр, Сс, Тт, Уу, Фф, Хх, Цц, Чч, Шш, Щщ, ь, Юю, Яя
